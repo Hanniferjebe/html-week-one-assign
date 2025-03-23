@@ -1,0 +1,16 @@
+elemnt => tags, attributes, content
+
+tags - define elements <>
+
+opening tag<tagname>
+
+closing tag</tagname>
+
+<p>   content...</p>
+<img> ... self closing tag or void element
+
+attributes - provide information about elements or define characteristics of elements 
+
+<img src="" >
+
+semantic html elements - clearly describe their meaning
